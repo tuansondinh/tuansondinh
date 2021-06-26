@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tuansondinh
 - 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning design patterns and clean code.
-- 💞️ I’m looking to collaborate on software projects
+- 💞️ I’m looking to collaborate on software projects.
 - 📫 How to reach me tuansondinh96@gmail.com.
 
 <!---
